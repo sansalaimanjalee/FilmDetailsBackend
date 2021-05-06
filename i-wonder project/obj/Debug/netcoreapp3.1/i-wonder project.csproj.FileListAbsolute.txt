@@ -3,3 +3,18 @@ C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder projec
 C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.AssemblyInfo.cs
 C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.csproj.CoreCompileInputs.cache
 C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\bin\Debug\netcoreapp3.1\i-wonder project.exe
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\bin\Debug\netcoreapp3.1\i-wonder project.deps.json
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\bin\Debug\netcoreapp3.1\i-wonder project.runtimeconfig.json
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\bin\Debug\netcoreapp3.1\i-wonder project.runtimeconfig.dev.json
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\bin\Debug\netcoreapp3.1\i-wonder project.dll
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\bin\Debug\netcoreapp3.1\i-wonder project.pdb
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\staticwebassets\i-wonder project.StaticWebAssets.Manifest.cache
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\staticwebassets\i-wonder project.StaticWebAssets.xml
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\scopedcss\bundle\i-wonder project.styles.css
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.RazorTargetAssemblyInfo.cache
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.dll
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.pdb
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.genruntimeconfig.cache

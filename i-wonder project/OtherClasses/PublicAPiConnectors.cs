@@ -34,19 +34,20 @@ namespace i_wonder_project.OtherClasses
             }
             return films;
         }
-    }
-    public async Task<Films> OnGet(IHttpClientFactory _clientFactory, string filmID)
-    {
-        Films film = new Films();
-        var request = new HttpRequestMessage(HttpMethod.Get, $"http://www.omdbapi.com/?i={filmID}&apikey=1e8fa3a");
-        var client = _clientFactory.CreateClient();
-        var response = await client.SendAsync(request);
-        if (response.IsSuccessStatusCode)
+
+        public async Task<Films> OnGet(IHttpClientFactory _clientFactory, string filmID)
         {
-            using var responseStream = await response.Content.ReadAsStreamAsync();
-            film = await JsonSerializer.DeserializeAsync
-                <Films>(responseStream);
+            Films film = new Films();
+            var request = new HttpRequestMessage(HttpMethod.Get, $"http://www.omdbapi.com/?i={filmID}&apikey=2024225f");
+            var client = _clientFactory.CreateClient();
+            var response = await client.SendAsync(request);
+            if (response.IsSuccessStatusCode)
+            {
+                using var responseStream = await response.Content.ReadAsStreamAsync();
+                film = await JsonSerializer.DeserializeAsync
+                    <Films>(responseStream);
+            }
+            return film;
         }
-        return film;
     }
 }
