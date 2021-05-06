@@ -1,0 +1,5 @@
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.csprojAssemblyReference.cache
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.AssemblyInfoInputs.cache
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.AssemblyInfo.cs
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.csproj.CoreCompileInputs.cache
+C:\Users\gimhani\Downloads\Project\IWonder\Back\i-wonder project\i-wonder project\obj\Debug\netcoreapp3.1\i-wonder project.MvcApplicationPartsAssemblyInfo.cache

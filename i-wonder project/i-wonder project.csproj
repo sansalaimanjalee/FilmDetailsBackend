@@ -5,9 +5,5 @@
     <RootNamespace>i_wonder_project</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 
 </Project>
