@@ -13,7 +13,7 @@ namespace i_wonder_project.OtherClasses
         public List<Films> GetFilmDetails(IHttpClientFactory _httpClientFactory)
         {
 
-            string[] imdbUniqueIdentifiers = new string[10];
+            string[] imdbUniqueIdentifiers = new string[13];
             imdbUniqueIdentifiers[0] = "tt0407887";
             imdbUniqueIdentifiers[1] = "tt0068646";
             imdbUniqueIdentifiers[2] = "tt0468569";
@@ -24,6 +24,10 @@ namespace i_wonder_project.OtherClasses
             imdbUniqueIdentifiers[7] = "tt0060196";
             imdbUniqueIdentifiers[8] = "tt1375666";
             imdbUniqueIdentifiers[9] = "tt0133093";
+            imdbUniqueIdentifiers[10] = "tt0109830";
+            imdbUniqueIdentifiers[11] = "tt0167261";
+            imdbUniqueIdentifiers[12] = "tt0120815";
+
 
             List<Films> films = new List<Films>();
 
